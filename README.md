@@ -17,6 +17,3 @@ Welcome to my Github 🧙‍ I'm Nacho, I'm a Software Developer born in Argenti
 <!--END_SECTION:activity-->
 
 ---
-
-  <img src="https://github-readme-stats.vercel.app/api?username=NachoKai&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NachoKai&theme=dark&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D">

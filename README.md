@@ -15,5 +15,3 @@ Welcome to my Github 🧙‍ I'm Nacho, I'm a Software Developer born in Argenti
 4. 🎉 Merged PR [#377](https://github.com/NachoKai/forito/pull/377) in [NachoKai/forito](https://github.com/NachoKai/forito)
 5. 🎉 Merged PR [#378](https://github.com/NachoKai/forito/pull/378) in [NachoKai/forito](https://github.com/NachoKai/forito)
 <!--END_SECTION:activity-->
-
----

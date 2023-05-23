@@ -9,11 +9,11 @@ Welcome to my Github 🧙‍ I'm Nacho, I'm a Software Developer born in Argenti
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/NachoKai/something-stellar/pull/1) in [NachoKai/something-stellar](https://github.com/NachoKai/something-stellar)
-2. 🎉 Merged PR [#506](https://github.com/NachoKai/forito/pull/506) in [NachoKai/forito](https://github.com/NachoKai/forito)
-3. 🎉 Merged PR [#507](https://github.com/NachoKai/forito/pull/507) in [NachoKai/forito](https://github.com/NachoKai/forito)
-4. 🎉 Merged PR [#508](https://github.com/NachoKai/forito/pull/508) in [NachoKai/forito](https://github.com/NachoKai/forito)
-5. 🎉 Merged PR [#509](https://github.com/NachoKai/forito/pull/509) in [NachoKai/forito](https://github.com/NachoKai/forito)
+1. 🎉 Merged PR [#511](https://github.com/NachoKai/forito/pull/511) in [NachoKai/forito](https://github.com/NachoKai/forito)
+2. 🎉 Merged PR [#512](https://github.com/NachoKai/forito/pull/512) in [NachoKai/forito](https://github.com/NachoKai/forito)
+3. 🎉 Merged PR [#513](https://github.com/NachoKai/forito/pull/513) in [NachoKai/forito](https://github.com/NachoKai/forito)
+4. 🎉 Merged PR [#514](https://github.com/NachoKai/forito/pull/514) in [NachoKai/forito](https://github.com/NachoKai/forito)
+5. 🎉 Merged PR [#515](https://github.com/NachoKai/forito/pull/515) in [NachoKai/forito](https://github.com/NachoKai/forito)
 <!--END_SECTION:activity-->
 
 ---

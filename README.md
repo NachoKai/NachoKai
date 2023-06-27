@@ -24,8 +24,6 @@ Welcome to my Github 🧙‍ I'm Nacho, I'm a Software Developer born in Argenti
    <!-- <img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=NachoKai&theme=react&hide_border=true" /> -->
 </p>
 
----
-
 <p align="center">
     <img align='center' src='https://raw.githubusercontent.com/NachoKai/NachoKai/master/x3x5w638kkixi9s3h3vw.gif' >
 </p>

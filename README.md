@@ -9,11 +9,11 @@ Welcome to my Github 🧙‍ I'm Nacho, I'm a Software Developer born in Argenti
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#545](https://github.com/NachoKai/forito/pull/545) in [NachoKai/forito](https://github.com/NachoKai/forito)
-2. 🎉 Merged PR [#546](https://github.com/NachoKai/forito/pull/546) in [NachoKai/forito](https://github.com/NachoKai/forito)
-3. 🎉 Merged PR [#547](https://github.com/NachoKai/forito/pull/547) in [NachoKai/forito](https://github.com/NachoKai/forito)
-4. 🎉 Merged PR [#548](https://github.com/NachoKai/forito/pull/548) in [NachoKai/forito](https://github.com/NachoKai/forito)
-5. 🎉 Merged PR [#549](https://github.com/NachoKai/forito/pull/549) in [NachoKai/forito](https://github.com/NachoKai/forito)
+1. 🎉 Merged PR [#556](https://github.com/NachoKai/forito/pull/556) in [NachoKai/forito](https://github.com/NachoKai/forito)
+2. 💪 Opened PR [#556](https://github.com/NachoKai/forito/pull/556) in [NachoKai/forito](https://github.com/NachoKai/forito)
+3. 🎉 Merged PR [#192](https://github.com/NachoKai/forito-server/pull/192) in [NachoKai/forito-server](https://github.com/NachoKai/forito-server)
+4. 💪 Opened PR [#192](https://github.com/NachoKai/forito-server/pull/192) in [NachoKai/forito-server](https://github.com/NachoKai/forito-server)
+5. 🎉 Merged PR [#555](https://github.com/NachoKai/forito/pull/555) in [NachoKai/forito](https://github.com/NachoKai/forito)
 <!--END_SECTION:activity-->
 
 ---

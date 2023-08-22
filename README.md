@@ -9,11 +9,11 @@ Welcome to my Github 🧙‍ I'm Nacho, I'm a Software Developer born in Argenti
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/NachoKai/argentum_survivor/pull/5) in [NachoKai/argentum_survivor](https://github.com/NachoKai/argentum_survivor)
-2. 💪 Opened PR [#5](https://github.com/NachoKai/argentum_survivor/pull/5) in [NachoKai/argentum_survivor](https://github.com/NachoKai/argentum_survivor)
-3. 🎉 Merged PR [#4](https://github.com/NachoKai/argentum_survivor/pull/4) in [NachoKai/argentum_survivor](https://github.com/NachoKai/argentum_survivor)
-4. 💪 Opened PR [#4](https://github.com/NachoKai/argentum_survivor/pull/4) in [NachoKai/argentum_survivor](https://github.com/NachoKai/argentum_survivor)
-5. 🎉 Merged PR [#3](https://github.com/NachoKai/argentum_survivor/pull/3) in [NachoKai/argentum_survivor](https://github.com/NachoKai/argentum_survivor)
+1. 🎉 Merged PR [#6](https://github.com/NachoKai/argentum_survivor/pull/6) in [NachoKai/argentum_survivor](https://github.com/NachoKai/argentum_survivor)
+2. 💪 Opened PR [#6](https://github.com/NachoKai/argentum_survivor/pull/6) in [NachoKai/argentum_survivor](https://github.com/NachoKai/argentum_survivor)
+3. 🎉 Merged PR [#5](https://github.com/NachoKai/argentum_survivor/pull/5) in [NachoKai/argentum_survivor](https://github.com/NachoKai/argentum_survivor)
+4. 💪 Opened PR [#5](https://github.com/NachoKai/argentum_survivor/pull/5) in [NachoKai/argentum_survivor](https://github.com/NachoKai/argentum_survivor)
+5. 🎉 Merged PR [#4](https://github.com/NachoKai/argentum_survivor/pull/4) in [NachoKai/argentum_survivor](https://github.com/NachoKai/argentum_survivor)
 <!--END_SECTION:activity-->
 
 ---

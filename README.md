@@ -9,11 +9,11 @@ Welcome to my Github 🧙‍ I'm Nacho, I'm a Software Developer born in Argenti
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/NachoKai/arena-survivors/pull/13) in [NachoKai/arena-survivors](https://github.com/NachoKai/arena-survivors)
-2. 💪 Opened PR [#13](https://github.com/NachoKai/arena-survivors/pull/13) in [NachoKai/arena-survivors](https://github.com/NachoKai/arena-survivors)
-3. ❌ Closed PR [#12](https://github.com/NachoKai/arena-survivors/pull/12) in [NachoKai/arena-survivors](https://github.com/NachoKai/arena-survivors)
-4. 💪 Opened PR [#12](https://github.com/NachoKai/arena-survivors/pull/12) in [NachoKai/arena-survivors](https://github.com/NachoKai/arena-survivors)
-5. 🔒 Closed issue [#10](https://github.com/NachoKai/arena-survivors/issues/10) in [NachoKai/arena-survivors](https://github.com/NachoKai/arena-survivors)
+1. 🔒 Closed issue [#3](https://github.com/NachoKai/arena-survivors/issues/3) in [NachoKai/arena-survivors](https://github.com/NachoKai/arena-survivors)
+2. 🔒 Closed issue [#14](https://github.com/NachoKai/arena-survivors/issues/14) in [NachoKai/arena-survivors](https://github.com/NachoKai/arena-survivors)
+3. ❗ Opened issue [#14](https://github.com/NachoKai/arena-survivors/issues/14) in [NachoKai/arena-survivors](https://github.com/NachoKai/arena-survivors)
+4. 🎉 Merged PR [#13](https://github.com/NachoKai/arena-survivors/pull/13) in [NachoKai/arena-survivors](https://github.com/NachoKai/arena-survivors)
+5. 💪 Opened PR [#13](https://github.com/NachoKai/arena-survivors/pull/13) in [NachoKai/arena-survivors](https://github.com/NachoKai/arena-survivors)
 <!--END_SECTION:activity-->
 
 ---
